@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá, me chamo Naline Belo🎈</h1>
+<h1 align="center"> Naline Belo🎈</h1>
 
 - 💻 Técnico em Informática - IFPB
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas - IFPB
 
-- 👨‍💻 Tecnoius Solutions - Cajazeiras
+- 👨‍💻 BCorp Technology - Cajazeiras
