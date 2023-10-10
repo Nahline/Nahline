@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 💻 Análise e Desenvolvimento de Sistemas - IFPB
 
-- ⚖️ Academica em Ciêcias Jurídicas - Faculdade Católica da Praíba.
+- ⚖️ Academica em Ciêcias Jurídicas - Faculdade Católica da Paraíba.
 
 
