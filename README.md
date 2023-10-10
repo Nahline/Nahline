@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Naline Belo🎈</h1>
 
+- 👨‍💻 BCorp Technology - Cajazeiras
+
 - 💻 Técnico em Informática - IFPB
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas - IFPB
+- 💻 Análise e Desenvolvimento de Sistemas - IFPB
 
-- 👨‍💻 BCorp Technology - Cajazeiras
+- ⚖️ Academica em Ciêcias Jurídicas - Faculdade Católica da Praíba.
+
+
